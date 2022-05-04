@@ -30,6 +30,7 @@ public class EmployeeTest {
         for(Employee e : employees){
             System.out.println(e.getInfo());
         }
+        System.out.println("hahaha");
     }
 }
 
